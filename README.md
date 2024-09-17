@@ -12,7 +12,7 @@ The HR Attendance Dashboard provides an in-depth look at employee attendance, en
 # Sick Leave (SL) Count:
     The SL count highlights the number of employees who called in sick on a particular day. It’s vital for HR to track employee well-        being, identify common trends in absenteeism due to sickness, and plan accordingly.
 
-# Use of HR Dashboard**
+# Use of HR Dashboard:
 # Daily Monitoring:
 -  HR can quickly monitor daily trends to ensure optimal employee presence, whether in-office or remote. It also helps with planning for    employee replacements or reallocating resources for smooth business operations.
 # Workforce Availability Analysis:
