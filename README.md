@@ -4,7 +4,7 @@ The HR Attendance Dashboard provides an in-depth look at employee attendance, en
 
 # Key Metrics:
 # Total Working Days (Company-Wide):
-    This metric represents the total number of scheduled working days for all employees, calculated by multiplying the number of working     days per month by the total headcount. It serves as the foundation for comparing actual attendance, WFH, and SL data.
+    This metric represents the total number of scheduled working days for all employees. It serves as the foundation for comparing           actual attendance, WFH, and SL data.
 # Employees Present (Daily):
     This shows the total number of employees who physically attended the office on a particular day. Tracking the headcount of employees     present helps HR teams ensure that physical attendance policies are adhered to and identify fluctuations in daily attendance.
 # Work from Home (WFH) Count:
@@ -14,7 +14,7 @@ The HR Attendance Dashboard provides an in-depth look at employee attendance, en
 
 # Use of HR Dashboard**
 # Daily Monitoring:
--  HR can quickly monitor daily trends to ensure optimal employee presence, whether in-office or remote. It also helps with planning for     employee replacements or reallocating resources for smooth business operations.
+-  HR can quickly monitor daily trends to ensure optimal employee presence, whether in-office or remote. It also helps with planning for    employee replacements or reallocating resources for smooth business operations.
 # Workforce Availability Analysis:
 -  By comparing total working days against actual attendance, WFH, and SL counts, management can analyze workforce availability and         determine if adjustments are needed to ensure productivity.
 # Actionable Insights:
